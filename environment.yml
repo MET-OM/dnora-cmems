@@ -1,0 +1,9 @@
+name: dnora-cmems
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9,<3.11
+  - pytest
+  - copernicusmarine
+  - pip:
+    - dnora
