@@ -1,1 +1,1 @@
-from .waterlevel_readers import GTSM
+from .waterlevel_readers import Global
